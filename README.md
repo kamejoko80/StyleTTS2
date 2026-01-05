@@ -98,7 +98,7 @@ aplay henry2.wav
 
 ```bash
 pip install notebook jupyterlab
-jupyter notebook Demo/Inference_LJSpeech.ipynb
+jupyter lab Demo/Inference_LJSpeech.ipynb
 ```
 
 ## Training
