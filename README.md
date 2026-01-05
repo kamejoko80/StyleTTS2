@@ -92,7 +92,13 @@ PY
 python henry_test.py
 aplay henry1.wav
 aplay henry2.wav
-PY
+```
+
+8. Run the jupyter notebook Demo:
+
+```bash
+pip install notebook jupyterlab
+jupyter notebook Demo/Inference_LJSpeech.ipynb
 ```
 
 ## Training
